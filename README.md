@@ -9,7 +9,7 @@
   # 서버 실행                                                                                                                              
   uvicorn main:app --reload
 
-  ▎ 실행 후 → http://localhost:8000                                                                                                          
+  ▎ 실행 후 → http://localhost:8001                                                                                                       
    
   ---                                                                                                                                        
   프론트엔드 실행 (터미널 2)                                                                                                               
